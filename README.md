@@ -1,6 +1,7 @@
 # Python
-Python codes from different projects \n
-Different python codes from multiple projects and courses \n
+Python codes from different projects
+
+Different python codes from multiple projects and courses.
 
 Scripts with python
 
